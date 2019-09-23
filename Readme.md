@@ -18,6 +18,9 @@ Apteco API to demonstrate how some simple system metadata can be gathered.
 To use the ApiDataExplorer, download the latest release from [GitHub](https://github.com/Apteco/ApiDataExplorer/releases)
 or build the software via Visual Studio or the .Net Core CLI (see [below](#Build)).
 
+**NOTE: The ApiDataExplorer uses API endpoints which are currently marked as "Experimental".  These should be enabled in the
+Apteco API's configuration tool before attempting to use the ApiDataExplorer.**
+
 To find out what command line parameters are required, run the console application with no parameters:
 
 ![Get Usage](Apteco.ApiDataExplorer.Resources/Images/Readme/ApiDataExplorer-Usage.jpg)
