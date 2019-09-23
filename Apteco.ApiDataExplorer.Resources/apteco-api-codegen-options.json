@@ -1,0 +1,5 @@
+{
+    "targetFramework": "v5.0",
+    "packageName": "Apteco.ApiDataExplorer.ApiClient",
+    "netCoreProjectFile": "true"
+}
