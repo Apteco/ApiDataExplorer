@@ -1,17 +1,17 @@
 # ApiDataExplorer
 This is a very simple application that connects to the Apteco API and given the path to a saved selection file and
 some variable names will allow you to view some data from a running 
-[Apteco FastStats�](https://www.apteco.com/products/faststats) system.
+[Apteco FastStats®](https://www.apteco.com/products/faststats) system.
 
 ### Background
-Apteco FastStats� is part of the [Apteco Marketing Suite](http://www.apteco.com).  It provides a unique
+Apteco FastStats® is part of the [Apteco Marketing Suite](http://www.apteco.com).  It provides a unique
 combination of speed and power for data exploration, data mining analysis and customer understanding.
 
-The Apteco API provides programmatic access to information held in an Apteco FastStats� database, as
-well as reporting information generated from [Apteco PeopleStage�](https://www.apteco.com/products/peoplestage),
+The Apteco API provides programmatic access to information held in an Apteco FastStats® database, as
+well as reporting information generated from [Apteco PeopleStage™](https://www.apteco.com/products/peoplestage),
 the powerful multi channel campaign automation software.
 
-The ApiSystemAnalyser is a sample application that connects to a Apteco FastStats� system via the
+The ApiSystemAnalyser is a sample application that connects to a Apteco FastStats® system via the
 Apteco API to demonstrate how some simple system metadata can be gathered.
 
 ### Usage
@@ -29,7 +29,7 @@ You will need various pieces of information:
 
 If you are outputting a set of records for a saved selection then you will also need:
 
-* The path to a saved selection created with [Apteco FastStats�](https://www.apteco.com/products/faststats).
+* The path to a saved selection created with [Apteco FastStats®](https://www.apteco.com/products/faststats).
 This selection must be saved in your public or private directory.
 * A list of variable references to output data for.
 
