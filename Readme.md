@@ -1,25 +1,22 @@
 # ApiDataExplorer
 This is a very simple application that connects to the Apteco API and given the path to a saved selection file and
 some variable names will allow you to view some data from a running 
-[Apteco FastStats®](https://www.apteco.com/products/faststats) system.
+[Apteco FastStatsï¿½](https://www.apteco.com/products/faststats) system.
 
 ### Background
-Apteco FastStats® is part of the [Apteco Marketing Suite](http://www.apteco.com).  It provides a unique
+Apteco FastStatsï¿½ is part of the [Apteco Marketing Suite](http://www.apteco.com).  It provides a unique
 combination of speed and power for data exploration, data mining analysis and customer understanding.
 
-The Apteco API provides programmatic access to information held in an Apteco FastStats® database, as
-well as reporting information generated from [Apteco PeopleStage™](https://www.apteco.com/products/peoplestage),
+The Apteco API provides programmatic access to information held in an Apteco FastStatsï¿½ database, as
+well as reporting information generated from [Apteco PeopleStageï¿½](https://www.apteco.com/products/peoplestage),
 the powerful multi channel campaign automation software.
 
-The ApiSystemAnalyser is a sample application that connects to a Apteco FastStats® system via the
+The ApiSystemAnalyser is a sample application that connects to a Apteco FastStatsï¿½ system via the
 Apteco API to demonstrate how some simple system metadata can be gathered.
 
 ### Usage
 To use the ApiDataExplorer, download the latest release from [GitHub](https://github.com/Apteco/ApiDataExplorer/releases)
 or build the software via Visual Studio or the .Net Core CLI (see [below](#Build)).
-
-**NOTE: The ApiDataExplorer uses API endpoints which are currently marked as "Experimental".  These should be enabled in the
-Apteco API's configuration tool before attempting to use the ApiDataExplorer.**
 
 To find out what command line parameters are required, run the console application with no parameters:
 
@@ -32,7 +29,7 @@ You will need various pieces of information:
 
 If you are outputting a set of records for a saved selection then you will also need:
 
-* The path to a saved selection created with [Apteco FastStats®](https://www.apteco.com/products/faststats).
+* The path to a saved selection created with [Apteco FastStatsï¿½](https://www.apteco.com/products/faststats).
 This selection must be saved in your public or private directory.
 * A list of variable references to output data for.
 
