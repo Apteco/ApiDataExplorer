@@ -11,8 +11,8 @@ The Apteco API provides programmatic access to information held in an Apteco Fas
 well as reporting information generated from [Apteco PeopleStage™](https://www.apteco.com/products/peoplestage),
 the powerful multi channel campaign automation software.
 
-The ApiSystemAnalyser is a sample application that connects to a Apteco FastStats® system via the
-Apteco API to demonstrate how some simple system metadata can be gathered.
+The ApiDataExplorer is a sample application that connects to a Apteco FastStats® system via the
+Apteco API to demonstrate how to export some data.
 
 ### Usage
 To use the ApiDataExplorer, download the latest release from [GitHub](https://github.com/Apteco/ApiDataExplorer/releases)
